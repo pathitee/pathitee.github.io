@@ -10,7 +10,7 @@ window.onload = async function () {
 
 }
 
-const URL = "http://localhost:5500/";
+const URL = "https://pathitee.github.io/";
     async function createModel() {
         const checkpointURL = URL + "model.json"; // model topology
         const metadataURL = URL + "metadata.json"; // model metadata
